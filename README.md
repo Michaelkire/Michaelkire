@@ -1,0 +1,5 @@
+- Hi, I’m Michael kire - 32 y/o guy from Denmark.
+- I’m an avid programmer, photographer, music and tech lover
+- Currently working as a Lead Frontend Developer @ Impact A/S,
+- I have C# MVC/WebApi, SQL, Redis, docker, typescript, angular, react and devops skills available in my skillset,
+- but have decided to stay primarily with frontend 
